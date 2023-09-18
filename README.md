@@ -11,3 +11,13 @@
 - [ ] 2nd things
 - [ ] 3rd things
 - [ ] 4th things
+
+```python
+s = "Python syntax highlight"
+print(s)
+```
+
+```javascript
+var s = "Javascript syntax highlight";
+alert(s);
+```
