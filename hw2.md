@@ -19,7 +19,7 @@ gantt
 ```
 
 # PERT 圖
-
+![pert](https://github.com/C110134148/23a/blob/a1f4192a34ead789ab4899d1090265a8f7b48164/%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90pert_diagram.jpg)
 
 # 關鍵路徑
 關鍵路徑： 1 → 2 → 4 → 6 → 9 → 11
